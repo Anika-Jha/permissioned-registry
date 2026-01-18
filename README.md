@@ -23,7 +23,7 @@ This contract was intentionally kept simple but realistic:
 * Shows controlled state mutation (who can change what).
 * Easy to reason about and audit.
 
-The goal is **clarity over complexity** — especially for beginners learning smart contracts.
+The goal is **clarity over complexity**; especially for beginners learning smart contracts.
 
 ---
 
