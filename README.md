@@ -162,3 +162,9 @@ This contract shows how **small, well-structured Rust code** can enforce strong 
 * Predictable execution paths
 
 It is designed to be easy to read, audit, and extend.
+
+## Social & Build Week Post
+
+I shared my learning journey and the Permissioned Registry smart contract challenge on LinkedIn:
+
+[View my post]([https://www.linkedin.com/posts/your-link-here](https://www.linkedin.com/posts/anika-jha-2157b0228_blockchain-smartcontracts-rust-activity-7418614318503698432-H_iM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkSEDEBsl2WzpOdWcuX2SXmRDinxCrer9A))
