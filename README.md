@@ -165,6 +165,6 @@ It is designed to be easy to read, audit, and extend.
 
 ## Social & Build Week Post
 
-I shared my journey during Build & Learn Week and the challenge where I built the **Permissioned Registry Smart Contract** on LinkedIn:
+I shared my journey during Build & Learn Week and the challenge where I built this contract on LinkedIn:
 
 [View my post](https://www.linkedin.com/posts/anika-jha-2157b0228_blockchain-smartcontracts-rust-activity-7418614318503698432-H_iM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkSEDEBsl2WzpOdWcuX2SXmRDinxCrer9A)
