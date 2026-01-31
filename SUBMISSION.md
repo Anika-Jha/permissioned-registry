@@ -16,4 +16,4 @@ It demonstrates **how Web3 applications use blockchain to enforce permissions an
 7. All writes are **permission-checked** to prevent unauthorized changes.  
 8. Errors are **clear and explicit**, making debugging easy.  
 9. State changes are **controlled and predictable**.  
-10. The design prioritizes **clarity, security, and beginner-friendly readability**.
+10. The design prioritizes clarity, security, and beginner-friendly readability.
